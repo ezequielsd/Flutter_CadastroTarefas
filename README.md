@@ -32,6 +32,5 @@ Abrir pelo IntelliJ ou Android Studio e rodar em um emulador ou em próprio equi
 
 # Imagens do programa
 
-![Inicial](images/Captura1.png)
+![Inicial](images/Captura3.png)
 ![Cadastro](images/Captura2.png)
-![Lista](images/Captura3.png)
